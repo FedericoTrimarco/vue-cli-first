@@ -1,5 +1,5 @@
 <template>
-  <h1>La mia prima app con Vue CLI!</h1>
+  <h1>The Batman</h1>
 </template>
 
 <script>
@@ -8,8 +8,9 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
 h1{
     color: red;
+    font-size: 5rem;
 }
 </style>
